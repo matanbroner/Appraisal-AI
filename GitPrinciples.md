@@ -48,7 +48,7 @@ To make a merge request:
 
 You should be checking daily under "Pull Requests" to see if someone has assigned you to review their code. If someone has, do the following:
 * Under the "Files Changed" section, navigate each change, using the + button to leave comments as needed. This is for anything stemming from incorrect code to poor styling.
-* Now checkout the branch and run the code (or paste into a Google Collab and test there.) 
+* Now checkout the branch and run the code (or paste into a Google Collab and test there.) On a side note, make sure that you are copying over your notebooks into .ipynb files in the notebooks folder of this repository so that others can easily grab them and upload them to Google Collab for testing. 
 * Leave a label on the request, whatever is appropriate. If it's good to go, simply label it "approved" and either merge it yourself or let the developer know.
 
 You should also always be updating your working branch to account for approved merged. You want to avoid your branch being behind, as this causes merge conflicts.
