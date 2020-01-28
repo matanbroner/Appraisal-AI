@@ -1,6 +1,6 @@
 ![cover photo](src/assets/images/dataset-cover.jpg)
 
-# CSE240_Final_Project
+# CSE240 Final Project
 This repository holds all versioning of the UCSC CSE240 project which aims to predict housing prices based on images using Machine Learning techniques.
 
 Dataset used: https://www.kaggle.com/ted8080/house-prices-and-images-socal#10004.jpg
@@ -15,3 +15,4 @@ Resources:
 External Resources:
 
 * Google Collab: https://colab.research.google.com/
+* Python for Data Science free course: https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/
